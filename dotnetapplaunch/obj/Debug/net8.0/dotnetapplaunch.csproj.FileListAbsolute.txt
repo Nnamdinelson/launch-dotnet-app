@@ -28,3 +28,4 @@ c:\Users\PC\Desktop\my new dotnet app launch\dotnetapplaunch\obj\Debug\net8.0\re
 c:\Users\PC\Desktop\my new dotnet app launch\dotnetapplaunch\obj\Debug\net8.0\dotnetapplaunch.pdb
 c:\Users\PC\Desktop\my new dotnet app launch\dotnetapplaunch\obj\Debug\net8.0\dotnetapplaunch.genruntimeconfig.cache
 c:\Users\PC\Desktop\my new dotnet app launch\dotnetapplaunch\obj\Debug\net8.0\ref\dotnetapplaunch.dll
+C:\Users\PC\Desktop\my new dotnet app launch\dotnetapplaunch\obj\Debug\net8.0\dotnetapplaunch.sourcelink.json
